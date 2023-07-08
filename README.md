@@ -4,6 +4,12 @@ This is simple 3d bouncing ball game.
 
 ----------
 
+![Gameplay preview](https://github.com/ivshiryaev/simple-3d-game-bouncing-ball/blob/main/GameplayPhoto1.jpg?raw=true)
+![Gameplay preview](https://github.com/ivshiryaev/simple-3d-game-bouncing-ball/blob/main/GameplayPhoto2.jpg?raw=true)
+![Gameplay preview](https://github.com/ivshiryaev/simple-3d-game-bouncing-ball/blob/main/GameplayPhoto3.jpg?raw=true)
+
+----------
+
 To play the game - download the repository and open OOPSubmision.exe
 
 -----------
