@@ -10,19 +10,18 @@ This is simple 3d bouncing ball game.
 
 ----------
 
-To play the game - download the repository and open OOPSubmision.exe
+To play the game, download the repository and open 'OOPSubmission.exe'.
 
------------
+The game consists of four levels and a sandbox mode.
 
-The game has 4 levels and the sandbox mode.
+To complete a level, you just have to roll the ball to the end of that level.
 
-To complete the level you just have to roll the ball to the end of the level.
-Sandbox mode: There are randomly spawned platforms, you have to jump on them to stay alive, if u fall to the floor - you will lose. Beware of the enemy balls, they will do everything to throw you off to the floor
+Sandbox mode: Random platforms spawn, and you must jump on them to stay alive.<br/>
+If you fall to the floor, you will lose.<br/>
+Beware of the enemy balls; they will do everything to throw you off the floor.<br/>
 
-WASD - move
-Space - jump 
+Controls:
 
-----
-
-Game was made on Unity, scripts was written using C#
-
+WASD: move<br/>
+Space: jump<br/>
+The game was made in Unity, and the scripts were written using C#.
